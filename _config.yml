@@ -1,0 +1,18 @@
+
+title: "Blog Dokumentasi Saya"
+description: "Dokumentasi dan catatan teknis pribadi."
+url: "https://username.github.io"
+baseurl: ""
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-archives
+
+author:
+  name: Nama Anda
+  avatar: "/assets/images/avatar.png"
+  bio: "Penulis dokumentasi teknis."
